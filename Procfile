@@ -1,0 +1,1 @@
+web: java -Dconfig.file=/tmp/application/deployment.conf -jar UserService-3.21.0.01-standalone.jar
